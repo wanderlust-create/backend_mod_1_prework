@@ -5,8 +5,8 @@ Congrats on making it to the Mod 0 Final Prep! Complete the final exercises belo
 
 You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1!
 
-- [ ] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
-- [ ] Complete the [Annotation Challenge](./annotations.rb)
+- [√] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
+- [√] Complete the [Annotation Challenge](./annotations.rb)
 
 ### Refactor Previous Work
 You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy.
@@ -32,9 +32,12 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![alt tag](https://photos.app.goo.gl/YcGWxmmGxbaDprEW6 “Tamara week 1 schedule”)
+
+- ![alt tag](https://photos.app.goo.gl/YFJnSnvcJaXfpjFg7 “Tamara week 2 schedule”)
+
+- ![alt tag](https://photos.app.goo.gl/8gziC8CZ73m2LhmCA “Tamara week 3 schedule”)
+
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
