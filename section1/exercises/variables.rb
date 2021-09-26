@@ -11,7 +11,7 @@ p name
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
 house_elf = "Dobby"
-p house_elf# YOUR CODE HERE
+p house_elf
 
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
@@ -22,12 +22,12 @@ p Harry_Potter_stay# YOUR CODE HERE
 # prints the result:
 students = 22
 students_plus = students + 2
-# YOUR CODE HERE
+
 p students_plus
 
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
-students_subtract = students - 2# YOUR CODE HERE
+students_subtract = students - 2
 p students_subtract
 
 
@@ -74,4 +74,4 @@ p healthy_snacks + junk_food_snacks
 
 # Did you run this file in your terminal to make sure everything printed out to the terminal
   # as you would expect?
-  # I did, after each exercise. 
+  # I did, after each exercise.

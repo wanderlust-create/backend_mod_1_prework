@@ -12,7 +12,7 @@ class Burrito
     @toppings = toppings
   end
 
-  def  change_info( protein, base, toppings)
+  def change_info(protein, base, toppings)
     @protein  = protein
     @base     = base
     @toppings = toppings

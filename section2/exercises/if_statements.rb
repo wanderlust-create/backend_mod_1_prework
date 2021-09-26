@@ -45,10 +45,8 @@ num_quarters = 1
 
 if num_quarters == 2
   puts "I have enough money for a gumball."
-
 elsif num_quarters < 2
   puts "I don't have enough money for a gumball."
-
 else
   puts "You have more than enough quarters."
 end
@@ -75,7 +73,6 @@ has_sauce = true
 
 if cups_of_flour >= 2 && has_sauce = true
   p "I can make pizza."
-
 else
   p "I cannot make pizza."
 end

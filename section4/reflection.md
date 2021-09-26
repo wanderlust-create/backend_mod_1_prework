@@ -22,21 +22,20 @@ Actions that an object can have, such as speaking and moving.
 ```rb
 class Dog
     attr_accessor :fur_colour, :height_in_cm, :breed, :cuddle
-
     def initialize(f, h, b)
-    @fur_colour = f
-    @height_in_cm = h
-    @breed = b
-    @cuddle = true
-  end
+      @fur_colour = f
+      @height_in_cm = h
+      @breed = b
+      @cuddle = true
+    end
 
-  def play
-  p "Look at me run!"
-  end
+    def play
+      p "Look at me run!"
+    end
 
-  def sleep
-    p "Look at those paws, you are sooo cute!"
-  end
+    def sleep
+      p "Look at those paws, you are sooo cute!"
+    end
 
 ```
 

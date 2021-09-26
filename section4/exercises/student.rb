@@ -1,13 +1,13 @@
 class Student
   attr_accessor :first_name, :last_name, :primary_phone_number
 
-    def introduction(target)
+  def introduction(target)
       puts "Hi, #{target} I'm #{first_name}!"
-    end
+  end
 
-    def favorite_number
+  def favorite_number
       7
-    end
+  end
 end
 
 frank = Student.new

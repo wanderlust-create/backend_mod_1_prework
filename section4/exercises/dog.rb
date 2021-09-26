@@ -4,7 +4,6 @@
 
 class Dog
   attr_reader :breed, :name, :age, :hungry
-
   def initialize(breed, name, age)
     @breed  = breed
     @name   = name
@@ -22,8 +21,7 @@ class Dog
 
   def play
     @hunger = true
-  end 
-
+  end
 end
 
 fido = Dog.new("Bernese", "Fido", 4)

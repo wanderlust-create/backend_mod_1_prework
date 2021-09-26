@@ -4,9 +4,7 @@
 
 # YOUR CODE HERE
 class Person
-
   attr_reader :first_name, :personality_type
-
   def initialize(first_name, personality_type)
     @first_name = first_name
     @personality_type = personality_type
@@ -19,7 +17,6 @@ class Person
   def response
     puts "I am #{personality_type}."
   end
-
 end
 
 john = Person.new('John', 'INTJ-T')

@@ -8,7 +8,7 @@
 name = "Ron"
 team = "Chudley Cannons"
 
-p "The #{team} are #{name}'s favorite Quidditch team"
+p "The #{team} are #{name}'s favorite Quidditch team."
 
 # Write code that uses the variables below to form a string that reads
 # "The quick red fox jumped over the lazy brown dog":
@@ -35,8 +35,8 @@ theory = "describes why something happens"
 law = "describes how something happens"
 
 theory_description = "uses descriptive language"
-law_description = "use numbers in the form of an equasion"
+law_description = "uses numbers in the form of an equasion"
 
 puts "People often don’t understand the difference between a #{x} and a #{y}. A #{x} #{theory} and a #{y} #{law}. A theory #{theory_description} and a law will #{law_description}."
 
-puts "A good example of this is gravity. The #{x} of gravity will describe why gravity exists and the #{y} will give us math equations that describes what happens."
+puts "A good example of this is gravity. The #{x} of gravity will describe why gravity exists and the #{y} will give us math equations that describe what happens."

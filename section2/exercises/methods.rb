@@ -25,8 +25,6 @@ def add_sum(a, b)
   return a + b
 end
 
-
-
 trial1 = add_sum(7, 13)
 trial2 = add_sum(1,10)
 trial3 = add_sum(100, 376)
